@@ -17,7 +17,7 @@ Choice of Blockchain platform is a critical decision to be made upfront. Couple 
 
   Popular opensource Blockchain platform suited for B2C use cases. Reaching consensus involves majority participants. 
   
- R3 Corda on the other hand is more suited for financial use cases as R3 architecture does not involve non-participants in the consensus process. This is important because of the sensitivity around the financial transaction data and the efficiency it brings in the consensus process. In addition, the Corda architecture is best suited for private Blockchain network. Every participant in the network would be institutions and they would be onboarded using Doorman service.
+ R3 Corda on the other hand is more suited for financial use cases as R3 architecture does not involve non-participants in the consensus process. This is important because of the sensitivity around the financial transaction data and the efficiency it brings in the consensus process. In addition, Corda architecture is best suited for private Blockchain network. Every participant in the network would be institutions and they would be onboarded using Doorman service.
 
 
 ### High level architecture
